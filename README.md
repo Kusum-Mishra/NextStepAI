@@ -64,7 +64,7 @@ AI-generated insights include:
 
 ## 🌐 Live Demo
 
-🔗 [Insert Live URL Here]  
+🔗 https://next-step-ai-mmwm.vercel.app/
 No installation needed — just visit and start!
 
 ---
