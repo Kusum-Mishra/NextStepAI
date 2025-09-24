@@ -1,6 +1,6 @@
-# 🎓 Next Step AI – Your Personalized AI Career Coach
+# 🎓 NextStepAI – Your Personalized AI Career Coach
 
-Next Step AI is an intelligent, AI-powered career coach designed to guide students and professionals in making data-driven career decisions. From industry insights to resume building, cover letters, and interview preparation, our tool offers a complete suite to help you advance confidently in your career.
+NextStepAI is an intelligent, AI-powered career coach designed to guide students and professionals in making data-driven career decisions. From industry insights to resume building, cover letters, and interview preparation, our tool offers a complete suite to help you advance confidently in your career.
 
 ---
 
